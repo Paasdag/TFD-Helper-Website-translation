@@ -19,7 +19,7 @@ msgstr "Mastery" <- translation for that language
 Thank you for contributing <3
 
 # Translation Status
-English - 100%
-Korean - 0%
-Russian - 0%
-Spanish - 0%
+- English - 100%
+- Korean - 0%
+- Russian - 0%
+- Spanish - 0%
