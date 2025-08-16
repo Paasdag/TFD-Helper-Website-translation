@@ -18,6 +18,8 @@ msgstr "Mastery" <- translation for that language
 
 Thank you for contributing <3
 
+For `msgid "On 🐈"`
+Please translate "On" to the langauge and add the cat emoji at the end
 # Translation Status
 - English - 100%
 - Korean - 0%
