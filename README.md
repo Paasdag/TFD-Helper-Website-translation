@@ -23,7 +23,7 @@ Thank you for contributing <3
 # Translation Status
 - [English](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/English.txt) - 100%
 - [Korean](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Korean.txt) - 0%
-- [Russian](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Russian.txt) - 0%
+- [Russian](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Russian.txt) - 0% - Contributors: Jazz Soroyoza
 - [Spanish](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Spanish.txt) - 0%
 - [French](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/French.txt) - 0%
 - [Italian](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Italian.txt) - 0%
