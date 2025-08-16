@@ -21,7 +21,15 @@ For `msgid "On 🐈"` Please translate "On" to the langauge and add the cat emoj
 Thank you for contributing <3
 
 # Translation Status
-- English - 100%
-- Korean - 0%
-- Russian - 0%
-- Spanish - 0%
+- [English](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/English.txt) - 100%
+- [Korean](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Korean.txt) - 0%
+- [Russian](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Russian.txt) - 0%
+- [Spanish](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Spanish.txt) - 0%
+- [French](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/French.txt) - 0%
+- [Italian](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Italian.txt) - 0%
+- [German](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/German.txt) - 0%
+- [Japanese](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Japanese.txt) - 0%
+- [Chinese (Simplified)](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Simplified-Chinese.txt) - 0%
+- [Chinese (Traditional)](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Traditional-Chinese.txt) - 0%
+- [Polish](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Polish.txt) - 0%
+- [Portuguese](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Portuguese.txt) - 0%
