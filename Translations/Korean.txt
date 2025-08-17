@@ -1,79 +1,78 @@
 #: templates/macros.html:5 templates/userpage/user.html:208
 #: templates/userpage/weapons.html:53
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #: templates/macros.html:14
 msgid "On 🐈"
-msgstr ""
+msgstr "🐈 부여 시"
 
 #: templates/macros.html:18
 msgid "On Cata"
-msgstr ""
+msgstr "결정화 촉매 부여 시"
 
 #: templates/userpage/arche.html:13 templates/userpage/user.html:226
 msgid "Arche Tuning Board"
-msgstr ""
+msgstr "아르케 조율"
 
 #: templates/userpage/components.html:19 templates/userpage/user.html:173
 #: templates/userpage/weapons.html:18
 msgid "Level"
-msgstr ""
+msgstr "레벨"
 
 #: templates/userpage/components.html:26 templates/userpage/user.html:118
 #: templates/userpage/user.html:193 templates/userpage/weapons.html:38
 msgid "Cores"
-msgstr ""
+msgstr "코어"
 
 #: templates/userpage/reactor.html:15 templates/userpage/user.html:34
 #: templates/userpage/user.html:136 templates/userpage/userprofile.html:16
 msgid "Lvl"
-msgstr ""
+msgstr "레벨"
 
 #: templates/userpage/reactor.html:32 templates/userpage/user.html:153
 #: templates/userpage/user.html:183 templates/userpage/weapons.html:28
 msgid "Stats"
-msgstr ""
+msgstr "옵션"
 
 #: templates/userpage/user.html:46 templates/userpage/userprofile.html:28
 msgid "Mastery"
-msgstr ""
+msgstr "마스터리"
 
 #: templates/userpage/user.html:47 templates/userpage/userprofile.html:29
 msgid "XP"
-msgstr ""
+msgstr "경험치"
 
 #: templates/userpage/user.html:57
 msgid "Is a content creator"
-msgstr ""
+msgstr "님은 콘텐츠 크리에이터입니다."
 
 #: templates/userpage/user.html:75 templates/userpage/user.html:175
 #: templates/userpage/weapons.html:20
 msgid "Module Capacity"
-msgstr ""
+msgstr "모듈 수용량"
 
 #: templates/userpage/user.html:174 templates/userpage/user.html:214
 #: templates/userpage/weapons.html:19 templates/userpage/weapons.html:59
 msgid "Slot"
-msgstr ""
+msgstr "장착 무기 슬롯"
 
 #: templates/userpage/user.html:174 templates/userpage/weapons.html:19
 msgid "Enhance Unique Ability Level"
-msgstr ""
+msgstr "고유 능력 강화"
 
 #: templates/userpage/userindex.html:30
 msgid "Live Stats Lookup for"
-msgstr ""
+msgstr "퍼스트 디센던트"
 
 #: templates/userpage/userindex.html:31
 msgid "The First Descendant"
-msgstr ""
+msgstr "실시간 스탯 조회"
 
 #: templates/userpage/userindex.html:32
 msgid "Now on the Web and Discord"
-msgstr ""
+msgstr "웹과 디스코드에서 사용 가능"
 
 #: templates/userpage/userindex.html:47
 msgid "Search"
-msgstr ""
-
+msgstr "검색"
