@@ -1,63 +1,69 @@
-#: templates/macros.html:5 templates/userpage/user.html:208
-#: templates/userpage/weapons.html:53
+#: templates/macros.html:6 templates/userpage/user.html:123
+msgid "Trigger Module"
+msgstr ""
+
+#: templates/macros.html:8 templates/macros.html:21
+#: templates/userpage/user.html:98 templates/userpage/user.html:116
+#: templates/userpage/user.html:141 templates/userpage/user.html:160
+#: templates/userpage/user.html:329 templates/userpage/weapons.html:53
 msgid "None"
 msgstr ""
 
-#: templates/macros.html:14
-msgid "On 🐈"
-msgstr ""
-
-#: templates/macros.html:18
-msgid "On Cata"
-msgstr ""
-
-#: templates/userpage/arche.html:13 templates/userpage/user.html:226
+#: templates/userpage/arche.html:13 templates/userpage/user.html:348
 msgid "Arche Tuning Board"
 msgstr ""
 
-#: templates/userpage/components.html:19 templates/userpage/user.html:173
-#: templates/userpage/weapons.html:18
+#: templates/userpage/components.html:19 templates/userpage/user.html:245
+#: templates/userpage/user.html:292 templates/userpage/weapons.html:18
 msgid "Level"
 msgstr ""
 
-#: templates/userpage/components.html:26 templates/userpage/user.html:118
-#: templates/userpage/user.html:193 templates/userpage/weapons.html:38
+#: templates/userpage/components.html:26 templates/userpage/user.html:191
+#: templates/userpage/user.html:274 templates/userpage/user.html:312
+#: templates/userpage/weapons.html:38
 msgid "Cores"
 msgstr ""
 
-#: templates/userpage/reactor.html:15 templates/userpage/user.html:34
-#: templates/userpage/user.html:136 templates/userpage/userprofile.html:16
+#: templates/userpage/reactor.html:15 templates/userpage/user.html:33
+#: templates/userpage/user.html:209 templates/userpage/userprofile.html:16
 msgid "Lvl"
 msgstr ""
 
-#: templates/userpage/reactor.html:32 templates/userpage/user.html:153
-#: templates/userpage/user.html:183 templates/userpage/weapons.html:28
+#: templates/userpage/reactor.html:32 templates/userpage/user.html:226
+#: templates/userpage/user.html:258 templates/userpage/user.html:302
+#: templates/userpage/weapons.html:28
 msgid "Stats"
 msgstr ""
 
-#: templates/userpage/user.html:46 templates/userpage/userprofile.html:28
+#: templates/userpage/user.html:41
+msgid "Plays on"
+msgstr ""
+
+#: templates/userpage/user.html:45 templates/userpage/userprofile.html:28
 msgid "Mastery"
 msgstr ""
 
-#: templates/userpage/user.html:47 templates/userpage/userprofile.html:29
+#: templates/userpage/user.html:46 templates/userpage/userprofile.html:29
 msgid "XP"
 msgstr ""
 
-#: templates/userpage/user.html:57
+#: templates/userpage/user.html:56
 msgid "Is a content creator"
 msgstr ""
 
-#: templates/userpage/user.html:75 templates/userpage/user.html:175
-#: templates/userpage/weapons.html:20
+#: templates/userpage/user.html:74 templates/userpage/user.html:247
+#: templates/userpage/user.html:294 templates/userpage/weapons.html:20
 msgid "Module Capacity"
 msgstr ""
 
-#: templates/userpage/user.html:174 templates/userpage/user.html:214
-#: templates/userpage/weapons.html:19 templates/userpage/weapons.html:59
+#: templates/userpage/user.html:246 templates/userpage/user.html:293
+#: templates/userpage/user.html:335 templates/userpage/weapons.html:19
+#: templates/userpage/weapons.html:59
 msgid "Slot"
 msgstr ""
 
-#: templates/userpage/user.html:174 templates/userpage/weapons.html:19
+#: templates/userpage/user.html:246 templates/userpage/user.html:293
+#: templates/userpage/weapons.html:19
 msgid "Enhance Unique Ability Level"
 msgstr ""
 
