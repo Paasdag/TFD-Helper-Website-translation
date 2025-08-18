@@ -1,6 +1,6 @@
 #: templates/macros.html:6 templates/userpage/user.html:123
 msgid "Trigger Module"
-msgstr ""
+msgstr "觸發模組設定"
 
 #: templates/macros.html:8 templates/macros.html:21
 #: templates/userpage/user.html:98 templates/userpage/user.html:116
@@ -11,7 +11,7 @@ msgstr "沒有"
 
 #: templates/userpage/arche.html:13 templates/userpage/user.html:348
 msgid "Arche Tuning Board"
-msgstr "Arche調整板"
+msgstr "始基調整板"
 
 #: templates/userpage/components.html:19 templates/userpage/user.html:245
 #: templates/userpage/user.html:292 templates/userpage/weapons.html:18
@@ -22,7 +22,7 @@ msgstr "等级"
 #: templates/userpage/user.html:274 templates/userpage/user.html:312
 #: templates/userpage/weapons.html:38
 msgid "Cores"
-msgstr "核心"
+msgstr "核心道具"
 
 #: templates/userpage/reactor.html:15 templates/userpage/user.html:33
 #: templates/userpage/user.html:209 templates/userpage/userprofile.html:16
@@ -37,11 +37,11 @@ msgstr "屬性"
 
 #: templates/userpage/user.html:41
 msgid "Plays on"
-msgstr ""
+msgstr "遊戲裝置"
 
 #: templates/userpage/user.html:45 templates/userpage/userprofile.html:28
 msgid "Mastery"
-msgstr "精通"
+msgstr "全局等級"
 
 #: templates/userpage/user.html:46 templates/userpage/userprofile.html:29
 msgid "XP"
@@ -54,18 +54,18 @@ msgstr "這是內容創作者"
 #: templates/userpage/user.html:74 templates/userpage/user.html:247
 #: templates/userpage/user.html:294 templates/userpage/weapons.html:20
 msgid "Module Capacity"
-msgstr "容量模組"
+msgstr "模組儲存量"
 
 #: templates/userpage/user.html:246 templates/userpage/user.html:293
 #: templates/userpage/user.html:335 templates/userpage/weapons.html:19
 #: templates/userpage/weapons.html:59
 msgid "Slot"
-msgstr "槽"
+msgstr "欄位"
 
 #: templates/userpage/user.html:246 templates/userpage/user.html:293
 #: templates/userpage/weapons.html:19
 msgid "Enhance Unique Ability Level"
-msgstr "提高獨特能力等級"
+msgstr "強化固有能力"
 
 #: templates/userpage/userindex.html:30
 msgid "Live Stats Lookup for"
