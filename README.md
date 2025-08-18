@@ -29,7 +29,7 @@ Thank you for contributing <3
 - [Italian](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Italian.txt) - 0%
 - [German](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/German.txt) - 0%
 - [Japanese](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Japanese.txt) - 0%
-- [Chinese (Simplified)](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Simplified-Chinese.txt) - 0%
-- [Chinese (Traditional)](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Traditional-Chinese.txt) - 0%
+- [Chinese (Simplified)](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Simplified-Chinese.txt) - 100% - Contributors: *•.¸♡❤ Ivyette ❤♡¸.•*
+- [Chinese (Traditional)](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Traditional-Chinese.txt) - 100% - Contributors: *•.¸♡❤ Ivyette ❤♡¸.•*
 - [Polish](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Polish.txt) - 0%
 - [Portuguese](https://github.com/Paasdag/TFD-Helper-Website-translation/blob/main/Translations/Portuguese.txt) - 0%
