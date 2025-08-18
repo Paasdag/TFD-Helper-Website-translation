@@ -1,6 +1,6 @@
 #: templates/macros.html:6 templates/userpage/user.html:123
 msgid "Trigger Module"
-msgstr ""
+msgstr "Триггерный модуль"
 
 #: templates/macros.html:8 templates/macros.html:21
 #: templates/userpage/user.html:98 templates/userpage/user.html:116
@@ -37,7 +37,7 @@ msgstr "Статистика"
 
 #: templates/userpage/user.html:41
 msgid "Plays on"
-msgstr ""
+msgstr "Играет на"
 
 #: templates/userpage/user.html:45 templates/userpage/userprofile.html:28
 msgid "Mastery"
