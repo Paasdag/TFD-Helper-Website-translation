@@ -3,6 +3,9 @@
 Help translate the TFD Helper website!
 
 # How to contribute
+Firstly fork this repository.
+Then follow this
+
 Each file has something like this
 
 ```
@@ -16,7 +19,8 @@ msgid "Mastery"
 msgstr "Mastery" <- translation for that language
 ```
 
-For `msgid "On 🐈"` Please translate "On" to the langauge and add the cat emoji at the end
+Make these changed in the new fork and start a new pull request.
+If possible add yourself as a Contributor.
 
 Thank you for contributing <3
 
